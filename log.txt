@@ -1,0 +1,8 @@
+2024-09-15 18:20:49.299212: Input: type
+Concatenated: type - Processed
+Interpolated: type - Processed
+Substring: type
+Uppercase: TYPE
+Lowercase: type
+Reversed: epyt
+Length: 4
